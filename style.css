@@ -63,7 +63,7 @@ header .navbar {
 
 .hero-section {
   height: 100vh;
-  background-image: url(../images/Cat\ Backgrounds.jpg);
+  background-image: url(Cat Backgrounds.jpg);
   background-position: left;
   background-size: cover;
   display: flex;
@@ -187,4 +187,5 @@ header .navbar {
   .hero-section .content button {
     padding: 9px 18px;
   }
+
 }
